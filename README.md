@@ -28,7 +28,7 @@ print("Compound score:", scores['compound'])
 ```
 
 ## Output:
+![image](https://github.com/santhanalakshmi04/Implementation-of-Sentimental-Analysis/assets/119475762/e51f9ff8-c250-4e6a-94c9-17826535ab7e)
 
-![sentiment](https://github.com/A-Thiyagarajan/Implementation-of-Sentimental-Analysis/assets/118707693/eb5d65b1-309d-41c2-ab01-c003196577f9)
 
 
